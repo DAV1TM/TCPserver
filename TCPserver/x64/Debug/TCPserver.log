@@ -1,0 +1,4 @@
+﻿  server.cpp
+C:\Users\datam\OneDrive\Desktop\DO NOT OPEN\SOFTWARE DEVELOPMENT\C++\TCPserver\TCPserver\server.cpp(8,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+server.obj : error LNK2005: main already defined in client.obj
+C:\Users\datam\OneDrive\Desktop\DO NOT OPEN\SOFTWARE DEVELOPMENT\C++\TCPserver\x64\Debug\TCPserver.exe : fatal error LNK1169: one or more multiply defined symbols found
